@@ -2,8 +2,8 @@
 Changelog for package warthog_description
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Forthcoming
------------
+0.1.9 (2024-04-30)
+------------------
 * Updated meshes to add antennas and E-stop buttons
 * Remove robotNamespace in .gazebo file
 * Contributors: Antonio Manuel Burgueño Romero, Luis Camero

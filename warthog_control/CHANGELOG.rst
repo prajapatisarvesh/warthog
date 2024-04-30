@@ -2,8 +2,8 @@
 Changelog for package warthog_control
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Forthcoming
------------
+0.1.9 (2024-04-30)
+------------------
 * Mod: Set 'publish_cmd' param to true in warthog_control/config
   - With this change the diff drive controller will output the final cmd_vel to /warthog_velocity_controller/cmd_vel_out after any filters are applied (e.g., speed/acceleration limits)
 * Contributors: Stephen Phillips
