@@ -1,0 +1,3 @@
+[submodule "cpr_onav_description"]
+	path = cpr_onav_description
+	url = https://github.com/cpr-application/cpr_onav_description.git
